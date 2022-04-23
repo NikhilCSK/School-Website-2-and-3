@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#video{
+    width:100%;
+    height:500px;
+    border:none;
+}
+
+.ybis{
+    width: 550px;
+}
+
+.address{
+    color: rgb(2, 79, 2);
+}
+
+#ybis{
+    width: 1330px;
+    height: 1500px;
+}
+
+.acheivements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+}
+
+.acheivements_head i{
+    float: right;
+}
+
+.acheivements_text span{
+    color:rgb(224, 224, 40);
+    font-size: 25px;
+}
